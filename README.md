@@ -7,3 +7,4 @@ AI-Powered Fraud Detection in Auto Insurance: Predictive Modeling for Smarter Cl
 <img width="1815" height="842" alt="Screenshot 2025-07-26 005423" src="https://github.com/user-attachments/assets/8b610f4d-6c55-4e1d-813e-2ed36d8cc9df" />
 <img width="1815" height="842" alt="Screenshot 2025-07-26 005423" src="https://github.com/user-attachments/assets/8e81bef2-f3a8-4fcb-86eb-a044a8c9f109" />
 <img width="1805" height="940" alt="Screenshot 2025-07-26 005411" src="https://github.com/user-attachments/assets/589e1d1b-c1a4-4db5-87ea-141dcb15f66f" />
+<img width="1838" height="912" alt="Screenshot 2025-07-26 005343" src="https://github.com/user-attachments/assets/5ae90275-d28f-4c97-8f32-1e7df88635de" />
