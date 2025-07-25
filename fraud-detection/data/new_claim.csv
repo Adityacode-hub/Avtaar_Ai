@@ -1,0 +1,2 @@
+months_as_customer,age,policy_deductable,incident_type,collision_type,incident_severity,authorities_contacted,incident_hour_of_the_day,number_of_vehicles_involved
+12,43,500,Single Vehicle Collision,Rear Collision,Major Damage,Police,9,2
